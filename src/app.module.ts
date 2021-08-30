@@ -11,7 +11,6 @@ import { OrderModule } from './order/order.module';
     ClientModule,
     ProductModule,
     OrderModule,
-    ClientModule,
   ],
 })
 export class AppModule {}
